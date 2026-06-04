@@ -28,7 +28,7 @@ https://your-live-demo-link.com
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
